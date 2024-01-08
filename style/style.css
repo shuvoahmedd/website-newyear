@@ -34,4 +34,32 @@
     font-weight: 900px;
 }
 
+.middle_1{
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.middle_2{
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 17px;
+    margin-top: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
 
+.middle_3{
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

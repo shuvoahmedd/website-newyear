@@ -71,3 +71,97 @@
     margin-top: 50px;
 }
 
+.welcome_banner_contain {
+    height: 550px;
+    margin: 100px 40px 120px 40px;
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) , url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+
+.welcome_title {
+    width: 642px;
+    color: #fff;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    margin-left: 90px;
+    margin-top: 100px;
+    font-family: 'Merriweather', serif;
+  }
+.welcome_text{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-left: 90px;
+    margin-bottom: 48px;
+}
+.join_ancor {
+    color: #fff;
+    text-align: left;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 150px;
+    text-transform: uppercase;
+    text-decoration: none;
+ }
+
+.welcome_banner_img{
+    margin-top: 70px;
+    margin-right: 100px;
+}
+.park_section {
+    margin: 120px 140px;
+
+    background: linear-gradient(
+      180deg,
+      rgba(255, 0, 0, 0.1) 0%,
+      rgba(255, 0, 0, 0) 100%
+    );
+    padding: 100px 385px 110px 386px;
+  }
+  .new_park{
+    color: #070211;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+  }
+  .park_style {
+    color: #F00;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+  }
+
+.botton-text{
+    width: 180px;
+    height: 55px;
+    line-height: 56px;
+    text-align: center;
+    border: none;
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #F00;
+    margin-top: 48px;
+    margin-left: 70px;
+    cursor: pointer;
+}

@@ -437,10 +437,11 @@ input {
     height: 1px;
     border: none;
     background: rgba(255, 255, 255, 0.15);
+    margin-top:50px;
 }
 
 .social-media {
-    
+    margin-top: 50px;
     text-align: center;
     padding: 30px;
     letter-spacing: 20px;
